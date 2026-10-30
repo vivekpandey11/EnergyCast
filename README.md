@@ -3,6 +3,11 @@
 **Energy Demand Forecasting · Anomaly Detection · Model Monitoring**
 
 A time-series machine learning project that analyzes historical electricity demand, compares forecasting models, identifies unusual demand patterns, and monitors prediction errors through an interactive Streamlit dashboard.
+## 🚀 Live Dashboard
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://energycast-d4dh28s9fabhvketsej6n3.streamlit.app/)
+
+**[⚡ Open EnergyCast Dashboard](YOUR_STREAMLIT_APP_URL)**
 
 ## 📊 Key Results
 
