@@ -8,3 +8,5 @@ data/raw/
 data/processed/*.joblib
 
 data/processed/anomaly_detection_results.csv
+
+!data/raw/PJME_hourly.csv
